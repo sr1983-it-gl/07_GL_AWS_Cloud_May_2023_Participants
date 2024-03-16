@@ -1,0 +1,10 @@
+com\itcorp\moviemgr\repository\MovieRepository.class
+com\itcorp\moviemgr\error\ErrorUtils.class
+com\itcorp\moviemgr\error\InvalidMovieRatingException.class
+com\itcorp\moviemgr\error\MovieMgrErrorHandler.class
+com\itcorp\moviemgr\error\InvalidGenreException.class
+com\itcorp\moviemgr\controller\MovieController.class
+com\itcorp\moviemgr\model\Movie.class
+com\itcorp\moviemgr\model\GenreUtils.class
+com\itcorp\moviemgr\MoviemgrApplication.class
+com\itcorp\moviemgr\controller\WelcomeController.class
